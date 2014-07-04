@@ -10,4 +10,4 @@
 <p>тестовое приложение для работы с github API с помоощью AngularJS</p>
 
 <h4>Приложение:</h4>
-![ScreenShot](https://raw.githubusercontent.com/GiperScriper/github-Viewer/img/github_viewer.jpg)
+![ScreenShot](https://raw.githubusercontent.com/GiperScriper/github-Viewer/master/img/github_viewer.jpg)
